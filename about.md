@@ -26,7 +26,7 @@ permalink: /about/
 如果你想与我交流，可以通过以下方式联系我：
 
 - GitHub: [@Walter1026](https://github.com/Walter1026)
-- Email: your-email@example.com
+- Email: walter1026@github.com
 
 ## 博客目标
 
